@@ -1,4 +1,5 @@
 # tarrah1
+![Tarrah2 Interactive Apparel Parametric Pattern Design   Automatic Grading](https://user-images.githubusercontent.com/79746767/109774708-81170a80-7bb5-11eb-9815-25a558c098c1.gif)
 Interactive, Parametric Apparel Pattern Design &amp; Automatic Grading
 Tarrah1 is mainly developed to automate and speed up the fashion designing tasks. 
 Since most of the work is automated and based on parameters so when parameters provided, patterns get ready itself. As a result, designers are able to meet & handle critical time-to-market objectives, higher performances and multi-million gate designs. Automation, Versatility and Accuracy are their key points.
